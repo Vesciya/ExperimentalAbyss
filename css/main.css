@@ -1,1 +1,19 @@
 /* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
+span {
+    color: #00c200;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: #1b1b1b;
+    background-color: #efefef;
+}
+
+div ""
