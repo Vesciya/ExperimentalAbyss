@@ -1,4 +1,16 @@
 /* Place CSS styles here */
+body {
+    color: purple;
+    /*distribute font to entire site */
+    font-family: 'Merriweather', serif'
+}
+/*Distribute font to all headings*/
+h1,
+h2,
+h3,
+h4,
+h5,
+
 html {
     scroll-behavior: smooth;
 }
@@ -10,10 +22,3 @@ span {
 h1 {
     color: red;
 }
-
-p {
-    color: #1b1b1b;
-    background-color: #efefef;
-}
-
-div ""
