@@ -22,3 +22,44 @@ span {
 h1 {
     color: red;
 }
+
+
+
+
+/* music page */
+@media screen and (max-width: 767px) {
+    html {
+      font-size: 18px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .episodes {
+      font-size: 14px;
+    }
+  }
+  
+  
+  
+  
+  @media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  
+  .episodes {
+    display: flex;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .episodes {
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .episodes {
+      flex-direction: row;
+    }
+  }
